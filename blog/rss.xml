@@ -2,16 +2,158 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>My Site Blog</title>
-        <link>https://Sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog</link>
+        <link>https://Sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
+            <title><![CDATA[人工知能の倫理と課題]]></title>
+            <link>https://Sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/artificial-intelligence-ethics/</link>
+            <guid>https://Sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/artificial-intelligence-ethics/</guid>
+            <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[はじめに]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="はじめに">はじめに<a href="https://sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/artificial-intelligence-ethics/#%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB" class="hash-link" aria-label="Direct link to はじめに" title="Direct link to はじめに">​</a></h2>
+<p>人工知能（AI）の進化は、私たちの社会に多大な影響を与えています。しかし、その急速な発展に伴い、倫理的な問題や課題も数多く生じています。本記事では、AIの倫理に関する主要な論点と、それに対する解決策について考察します。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="主な論点">主な論点<a href="https://sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/artificial-intelligence-ethics/#%E4%B8%BB%E3%81%AA%E8%AB%96%E7%82%B9" class="hash-link" aria-label="Direct link to 主な論点" title="Direct link to 主な論点">​</a></h2>
+<ul>
+<li>プライバシー保護とデータ利用の透明性</li>
+<li>バイアスと公平性の確保</li>
+<li>人間とAIの共生に向けたガイドライン</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="結論">結論<a href="https://sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/artificial-intelligence-ethics/#%E7%B5%90%E8%AB%96" class="hash-link" aria-label="Direct link to 結論" title="Direct link to 結論">​</a></h2>
+<p>AI技術の発展には多くの可能性が秘められていますが、同時に解決すべき重要な倫理的課題も存在します。これらの課題に対して社会全体で取り組むことが、持続可能な技術活用の鍵となるでしょう。</p>]]></content:encoded>
+            <category>AI</category>
+            <category>ethics</category>
+        </item>
+        <item>
+            <title><![CDATA[AWS Amplifyのベストプラクティスと活用方法]]></title>
+            <link>https://Sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/aws-amplify-best-practices/</link>
+            <guid>https://Sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/aws-amplify-best-practices/</guid>
+            <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[はじめに]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="はじめに">はじめに<a href="https://sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/aws-amplify-best-practices/#%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB" class="hash-link" aria-label="Direct link to はじめに" title="Direct link to はじめに">​</a></h2>
+<p>AWS Amplifyは、モダンなウェブアプリケーションやモバイルアプリケーションの開発・運用を加速するプラットフォームです。本記事では、Amplifyを最大限に活用するためのベストプラクティスを紹介します。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="効果的な開発方法">効果的な開発方法<a href="https://sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/aws-amplify-best-practices/#%E5%8A%B9%E6%9E%9C%E7%9A%84%E3%81%AA%E9%96%8B%E7%99%BA%E6%96%B9%E6%B3%95" class="hash-link" aria-label="Direct link to 効果的な開発方法" title="Direct link to 効果的な開発方法">​</a></h2>
+<ul>
+<li>
+<p><strong>CLIの活用</strong><br>
+<!-- -->Amplify CLIを使用すると、簡単にバックエンドリソース（例：GraphQL API、認証、ストレージ）を設定でき、迅速なプロトタイピングが可能です。</p>
+</li>
+<li>
+<p><strong>環境ごとの設定管理</strong><br>
+<!-- -->開発、ステージング、本番環境ごとに設定を分けることで、各環境に最適なリソース管理が実現できます。</p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="運用上のベストプラクティス">運用上のベストプラクティス<a href="https://sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/aws-amplify-best-practices/#%E9%81%8B%E7%94%A8%E4%B8%8A%E3%81%AE%E3%83%99%E3%82%B9%E3%83%88%E3%83%97%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%82%B9" class="hash-link" aria-label="Direct link to 運用上のベストプラクティス" title="Direct link to 運用上のベストプラクティス">​</a></h2>
+<ul>
+<li>
+<p><strong>自動化されたCI/CDパイプライン</strong><br>
+<!-- -->Amplify Consoleを利用して、Gitの変更が自動的にビルドおよびデプロイされる仕組みを整備しましょう。</p>
+</li>
+<li>
+<p><strong>パフォーマンス最適化</strong><br>
+<!-- -->キャッシュポリシーの設定や、CDN（Content Delivery Network）の利用により、ユーザー体験を向上させることができます。</p>
+</li>
+<li>
+<p><strong>セキュリティ対策</strong><br>
+<!-- -->環境変数の適切な管理や、アクセス制御を徹底して、セキュリティリスクを最小限に抑えましょう。</p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="まとめ">まとめ<a href="https://sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/aws-amplify-best-practices/#%E3%81%BE%E3%81%A8%E3%82%81" class="hash-link" aria-label="Direct link to まとめ" title="Direct link to まとめ">​</a></h2>
+<p>AWS Amplifyのベストプラクティスを取り入れることで、開発と運用の効率が大幅に向上します。継続的な改善と最新の技術動向の取り入れが、成功するプロジェクトの鍵となります。</p>]]></content:encoded>
+            <category>AWS Amplify</category>
+            <category>best practices</category>
+            <category>cloud</category>
+        </item>
+        <item>
+            <title><![CDATA[AWS Amplifyを活用したデプロイのヒント]]></title>
+            <link>https://Sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/aws-amplify-deployment-tips/</link>
+            <guid>https://Sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/aws-amplify-deployment-tips/</guid>
+            <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[はじめに]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="はじめに">はじめに<a href="https://sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/aws-amplify-deployment-tips/#%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB" class="hash-link" aria-label="Direct link to はじめに" title="Direct link to はじめに">​</a></h2>
+<p>AWS Amplifyは、フロントエンドとバックエンドの開発・運用をシンプルにするためのサービスです。本記事では、Amplifyを活用してサイトをデプロイする際の基本手順とトラブルシューティングのポイントを紹介します。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="デプロイの基本手順">デプロイの基本手順<a href="https://sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/aws-amplify-deployment-tips/#%E3%83%87%E3%83%97%E3%83%AD%E3%82%A4%E3%81%AE%E5%9F%BA%E6%9C%AC%E6%89%8B%E9%A0%86" class="hash-link" aria-label="Direct link to デプロイの基本手順" title="Direct link to デプロイの基本手順">​</a></h2>
+<ol>
+<li>
+<p><strong>プロジェクトの準備</strong><br>
+<!-- -->Amplify CLIを使ってプロジェクトを初期化し、必要なバックエンドリソース（例：認証、ストレージなど）を設定します。</p>
+</li>
+<li>
+<p><strong>ビルドとデプロイ</strong></p>
+<div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">npm run build</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">amplify publish</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p>ビルドコマンドで静的ファイルを生成し、その成果物をAmplifyにアップロードしてデプロイします。</p>
+</li>
+<li>
+<p><strong>継続的デプロイ（CI/CD）の設定</strong><br>
+<!-- -->Amplify Consoleを利用して、Gitリポジトリに変更があった場合に自動でビルド・デプロイを行うことができます。</p>
+</li>
+</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="トラブルシューティングのポイント">トラブルシューティングのポイント<a href="https://sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/aws-amplify-deployment-tips/#%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88" class="hash-link" aria-label="Direct link to トラブルシューティングのポイント" title="Direct link to トラブルシューティングのポイント">​</a></h2>
+<ul>
+<li>
+<p><strong>キャッシュのクリア</strong><br>
+<!-- -->デプロイ後にサイトが正しく反映されない場合は、Amplify Consoleやブラウザのキャッシュをクリアしてください。</p>
+</li>
+<li>
+<p><strong>環境変数の確認</strong><br>
+<!-- -->デプロイ時に使用する環境変数が正しく設定されているか確認しましょう。</p>
+</li>
+<li>
+<p><strong>ログの確認</strong><br>
+<!-- -->Amplify Consoleでビルドログやデプロイログを確認することで、エラーの原因を特定できます。</p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="まとめ">まとめ<a href="https://sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/aws-amplify-deployment-tips/#%E3%81%BE%E3%81%A8%E3%82%81" class="hash-link" aria-label="Direct link to まとめ" title="Direct link to まとめ">​</a></h2>
+<p>AWS Amplifyは、迅速なデプロイと運用を実現するための強力なツールです。基本手順とトラブルシューティングのポイントを押さえることで、スムーズなデプロイが可能になります。</p>]]></content:encoded>
+            <category>AWS Amplify</category>
+            <category>deployment</category>
+            <category>tips</category>
+        </item>
+        <item>
+            <title><![CDATA[データサイエンスの未来展望]]></title>
+            <link>https://Sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/data-science-insights/</link>
+            <guid>https://Sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/data-science-insights/</guid>
+            <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[はじめに]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="はじめに">はじめに<a href="https://sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/data-science-insights/#%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB" class="hash-link" aria-label="Direct link to はじめに" title="Direct link to はじめに">​</a></h2>
+<p>データサイエンスは、現代のビジネスや研究の現場で不可欠な技術となっています。本記事では、最新の技術動向や今後の展望について詳しく解説します。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="主なトピック">主なトピック<a href="https://sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/data-science-insights/#%E4%B8%BB%E3%81%AA%E3%83%88%E3%83%94%E3%83%83%E3%82%AF" class="hash-link" aria-label="Direct link to 主なトピック" title="Direct link to 主なトピック">​</a></h2>
+<ul>
+<li>最新のアルゴリズムと技術革新</li>
+<li>ビッグデータ解析の実用例</li>
+<li>データ倫理とプライバシー問題</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="結論">結論<a href="https://sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/data-science-insights/#%E7%B5%90%E8%AB%96" class="hash-link" aria-label="Direct link to 結論" title="Direct link to 結論">​</a></h2>
+<p>これからもデータサイエンスの発展が期待され、様々な業界での活用が進むでしょう。</p>]]></content:encoded>
+            <category>data science</category>
+            <category>trends</category>
+        </item>
+        <item>
+            <title><![CDATA[機械学習の実践的応用]]></title>
+            <link>https://Sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/machine-learning-applications/</link>
+            <guid>https://Sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/machine-learning-applications/</guid>
+            <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[はじめに]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="はじめに">はじめに<a href="https://sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/machine-learning-applications/#%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB" class="hash-link" aria-label="Direct link to はじめに" title="Direct link to はじめに">​</a></h2>
+<p>機械学習は、医療、製造業、金融など、さまざまな分野で実践的な応用が進んでいます。本記事では、具体的な事例とその成果について考察します。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="主な応用例">主な応用例<a href="https://sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/machine-learning-applications/#%E4%B8%BB%E3%81%AA%E5%BF%9C%E7%94%A8%E4%BE%8B" class="hash-link" aria-label="Direct link to 主な応用例" title="Direct link to 主な応用例">​</a></h2>
+<ul>
+<li>画像認識と自然言語処理</li>
+<li>異常検知と予測保守</li>
+<li>パーソナライズドマーケティング</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="まとめ">まとめ<a href="https://sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/machine-learning-applications/#%E3%81%BE%E3%81%A8%E3%82%81" class="hash-link" aria-label="Direct link to まとめ" title="Direct link to まとめ">​</a></h2>
+<p>実世界での応用事例は今後も増え続け、産業全体に大きな変革をもたらすでしょう。</p>]]></content:encoded>
+            <category>machine learning</category>
+            <category>applications</category>
+        </item>
+        <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://Sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/welcome</link>
-            <guid>https://Sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/welcome</guid>
+            <link>https://Sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/welcome/</link>
+            <guid>https://Sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/welcome/</guid>
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></description>
             <content:encoded><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p>
@@ -33,8 +175,8 @@
         </item>
         <item>
             <title><![CDATA[MDX Blog Post]]></title>
-            <link>https://Sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/mdx-blog-post</link>
-            <guid>https://Sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/mdx-blog-post</guid>
+            <link>https://Sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/mdx-blog-post/</link>
+            <guid>https://Sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/mdx-blog-post/</guid>
             <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
             <content:encoded><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer">MDX</a>.</p>
@@ -47,8 +189,8 @@
         </item>
         <item>
             <title><![CDATA[Long Blog Post]]></title>
-            <link>https://Sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/long-blog-post</link>
-            <guid>https://Sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/long-blog-post</guid>
+            <link>https://Sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/long-blog-post/</link>
+            <guid>https://Sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/long-blog-post/</guid>
             <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[This is the summary of a very long blog post,]]></description>
             <content:encoded><![CDATA[<p>This is the summary of a very long blog post,</p>
@@ -74,8 +216,8 @@
         </item>
         <item>
             <title><![CDATA[First Blog Post]]></title>
-            <link>https://Sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/first-blog-post</link>
-            <guid>https://Sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/first-blog-post</guid>
+            <link>https://Sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/first-blog-post/</link>
+            <guid>https://Sunwood-ai-labs.github.io/Amplify-Docusaurus-Starter/blog/first-blog-post/</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Lorem ipsum dolor sit amet...]]></description>
             <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet...</p>
